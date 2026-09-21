@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NaveenKumar Sona Engagement//EN
+BEGIN:VEVENT
+UID:naveenkumar-sona-engagement-20261025@example.com
+DTSTAMP:20260921T000000Z
+DTSTART:20261025T043000Z
+DTEND:20261025T063000Z
+SUMMARY:NaveenKumar & Sona - Engagement
+LOCATION:AL RASI MAHAL A/C, Kangayam Rd, Amarjothi Garden, Bavani Nagar, Tiruppur, Tamil Nadu 641604
+DESCRIPTION:Engagement ceremony of NaveenKumar & Sona.
+END:VEVENT
+END:VCALENDAR
